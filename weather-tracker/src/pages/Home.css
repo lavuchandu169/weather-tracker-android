@@ -1,0 +1,30 @@
+/* Home.css */
+.home-container {
+    padding: 20px;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .home-welcome {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  
+  .weather-details {
+    margin-top: 10px;
+    font-size: 1.1rem;
+    background: #f0f0f0;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .logout-button {
+    margin-top: 20px;
+  }
+  
+  .home-welcome {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  

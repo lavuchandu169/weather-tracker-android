@@ -1,0 +1,6 @@
+{
+  "appId": "com.weather.tracker",
+  "appName": "Weather Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
